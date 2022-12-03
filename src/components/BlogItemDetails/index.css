@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.main-item-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.item-container {
+  /* border: 1px solid red; */
+  width: 80%;
+}
+.image-url {
+  width: 100%;
+  border-radius: 14px;
+}
+.blog-detail-heading {
+  text-align: center;
+  font-size: 24px;
+}
+.content {
+  color: #8e8e8e;
+}
